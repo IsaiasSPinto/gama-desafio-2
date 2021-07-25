@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "image": "https://a-static.mlcdn.com.br/1500x1500/iphone-12-apple-128gb-preto-tela-61-cam-dupla-12mp-ios/magazineluiza/155598100/4336640557dbc605310be47a2ee3e4a5.jpg",
+            "name": "Iphone",
+            "description": "Descricao do produto",
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "image": "https://images8.kabum.com.br/produtos/fotos/88958/88958_index_gg.jpg",
+            "name": "Teclado",
+            "description": "Descricao do produto",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "image": "https://cdn.iset.io/assets/00665/produtos/2541/mouse-redragon-cobra-chroma-m711-01.png",
+            "name": "Mouse",
+            "description": "Descricao do produto",
+            "price": 100
+        },
+        {
+            "id": 4,
+            "image": "https://www.imagensempng.com.br/wp-content/uploads/2021/05/22.png",
+            "name": "Headset",
+            "description": "Descricao do produto",
+            "price": 500
+        },
+        {
+            "id": 5,
+            "image": "https://images5.kabum.com.br/produtos/fotos/103165/monitor-gamer-led-asus-24-full-hd-hdmi-dvi-d-display-port-gsync-165-hz-0-5-ms-vg248qg_1594213093_gg.jpg",
+            "name": "Monitor",
+            "description": "Descricao do produto",
+            "price": 1500
+        },
+        {
+            "id": 6,
+            "image": "https://images9.kabum.com.br/produtos/fotos/129459/processador-amd-ryzen-9-5900x-cache-70mb-3-7ghz-4-8ghz-max-turbo-am4-100-100000063wof_1602600708_gg.jpg",
+            "name": "Processador",
+            "description": "Descricao do produto",
+            "price": 2000
+        },
+        {
+            "id": 7,
+            "image": "https://www.imagensempng.com.br/wp-content/uploads/2020/11/009-3.png",
+            "name": "RTX 3090",
+            "description": "Descricao do produto",
+            "price": 10000
+        },
+        {
+            "id": 8,
+            "image": "https://images4.kabum.com.br/produtos/fotos/100004/100004_1548782633_index_gg.jpg",
+            "name": "Gabinete",
+            "description": "Descricao do produto",
+            "price": 600
+        }
+    ]
+}
