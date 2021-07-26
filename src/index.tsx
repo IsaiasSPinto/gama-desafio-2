@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import { BrowserRouter, Route, Switch } from 'react-router-dom'
 import GlobalStyles from './GlobalStyles';
 
