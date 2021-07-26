@@ -76,7 +76,7 @@ const Home: React.FC = () => {
 
                 <div className="wrapper">
                     <span>Deselvovido pro Isaias Pinto</span>
-                    <a href="https://github.com/IsaiasSPinto" target="_blank"><img width="80%" src={Git} alt="icone Git hub" /></a>
+                    <a href="https://github.com/IsaiasSPinto" target="_blank" rel="noreferrer"><img width="80%" src={Git} alt="icone Git hub" /></a>
                 </div>
 
 
